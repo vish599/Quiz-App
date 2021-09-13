@@ -5,10 +5,13 @@
     box-sizing: border-box;
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
+    box-shadow: 0 1rem 1rem -0.7rem rgba(0,0,0,0.4);
+    border-radius: 10px;
 }
 
 body{
-    background: rgb(6, 100, 138);
+    
+    background-color:lightblue;
 }
 
 .start_btn,
